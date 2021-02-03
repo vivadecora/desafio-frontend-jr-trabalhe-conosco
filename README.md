@@ -67,6 +67,8 @@ E Teles respondeu:
 
 Todos gostaram da ideia. Os requisitos do MVP "VivaMemory" foram definidos a seguir.
 
+:warning: **Importante**: a situação apresentada aqui é fictícia. Não utilizaremos seu desafio para nenhuma finalidade que não seja avaliação técnica profissional.
+
 ## VivaMemory: Requisitos do MVP.
 
 <img src="/readme/mockup-android.png" width="250" align="left">
