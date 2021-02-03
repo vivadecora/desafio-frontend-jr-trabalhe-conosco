@@ -39,7 +39,7 @@ Desafio para aplicantes a vaga de pessoa desenvolvedora frontend nível Júnior.
 
 ## Sobre o Viva Decora:
 
-O Viva Decora é uma empresa fundada em 2014, partiu  da necessidade de completar o ciclo do consumidor de móveis online.  
+O Viva Decora é uma empresa fundada em 2014, partiu da necessidade de completar o ciclo do consumidor de móveis online.
 
 O Viva Decora iniciou as atividades com o apoio da estrutura de back-office do VivaReal e depois ganhou equipes independentes de marketing B2B e B2C, operações, produto e engenharia, atualmente com 30 profissionais.  
 
@@ -76,7 +76,7 @@ Todos gostaram da ideia. Os requisitos do MVP "VivaMemory" foram definidos a seg
 * As telas do projeto não precisam de urls próprias.
 * A utilização de bibliotecas JavaScript é opcional, fique livre para fazer o desafio em JavaScript puro, VueJS, React, Angular ou outra tecnologia a sua escolha.
 * As telas devem ser responsivas;
-* O desafio consiste em 5 telas: **"Tela inicial"**, **"Jogo Nível Fácil"**, **"Jogo Nível Normal"**, **"Jogo Nível Difícil"**, **" Telas de Parabéns"**.
+* O desafio consiste em 5 telas: **"Tela inicial"**, **"Jogo Nível Fácil"**, **"Jogo Nível Normal"**, **"Jogo Nível Difícil"**, **" Tela de Parabéns"**.
 
 ## Funcionamento do jogo
 
@@ -118,7 +118,7 @@ Toda carta deve ter um par equivalente para que o jogo seja válido.
 
 ### Contador de movimentos
 
-O contador de movimentos registrar e exibe a quantidade de movimentos feitos no jogo.
+O contador de movimentos registra e exibe a quantidade de movimentos feitos no jogo.
 É importante que singular e plural sejam respeitados no jogo, assim:
 
 * 0 movimentos 
@@ -197,7 +197,7 @@ O tabuleiro nesse nível de jogo contém:
 
 * Duas colunas
 * Duas linhas
-* Quarto cartas
+* Quatro cartas
 * Cada carta tem pelo menos 90px de largura/altura
 
 ![Tela nível fácil](/readme/tela-nivel-facil.png)
@@ -254,7 +254,7 @@ Todas as outras imagens são proveninentes de emojis. Por ser um jogo voltado pa
 
 Outra vantagem dos emojis é que eles irão aparecer em cada dispositivo já com o estilo do dispositivo e por isso provavelmente podem ser imagens mais familiares.
 
-Essa lista contém os emojis que consideram mais atrativos e os códigos decimais e hexadecimais para usá-los no HTML.
+Essa lista contém os emojis que consideramos mais atrativos e os códigos decimais e hexadecimais para usá-los no HTML.
 **Exemplo:** Se você desejar imprimir um &#128063; pode usar no html  `&#128063;` ou `&#1F43F;`.
 
 | Emoji        | Decimal           | Hexadecimal  |
