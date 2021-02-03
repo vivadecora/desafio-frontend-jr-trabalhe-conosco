@@ -6,15 +6,15 @@ Desafio para aplicantes a vaga de pessoa desenvolvedora frontend nível Júnior.
 
 ## Tabela de conteúdos
 
-  * [:warning: Instruções para entrega do projeto](#-warning--instruções-para-entrega-do-projeto)
-  * [Sobre o Viva Decora:](#sobre-o-viva-decora-)
-  * [Sobre o projeto: VivaMemory](#sobre-o-projeto--vivamemory)
-  * [VivaMemory: Requisitos do MVP.](#vivamemory--requisitos-do-mvp)
+  * [:warning: Instruções para entrega do projeto](#warning-instruções-para-entrega-do-projeto)
+  * [Sobre o Viva Decora:](#sobre-o-viva-decora)
+  * [Sobre o projeto: VivaMemory](#sobre-o-projeto-vivamemory)
+  * [VivaMemory: Requisitos do MVP.](#vivamemory-requisitos-do-mvp)
   * [Funcionamento do jogo](#funcionamento-do-jogo)
     + [Logo do jogo](#logo-do-jogo)
     + [Tabuleiro e cartas](#tabuleiro-e-cartas)
     + [Contador de movimentos](#contador-de-movimentos)
-    + [Botão de recomeçar](#bot-o-de-recomeçar)
+    + [Botão de recomeçar](#botão-de-recomeçar)
     + [Indicador de nível](#indicador-de-nível)
     + [Escolher carta inicial](#escolher-carta-inicial)
     + [Escolher carta equivalente](#escolher-carta-equivalente)
