@@ -211,8 +211,8 @@ A imagem acima deve ser usada como referência para o design da tela.
 O jogo no nível normal, segue as regras explicadas em "Funcionamento do jogo".
 O tabuleiro nesse nível de jogo contém:
 
-* Duas colunas
-* Duas linhas
+* Três colunas
+* Três linhas
 * Oito cartas
 * Cada carta tem pelo menos 60px de largura/altura
 
