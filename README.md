@@ -1,6 +1,6 @@
 # VivaMemory 
 
-Desafio para aplicantes a vaga de pessoa desenvolvedora frontend nível Júnior.
+Desafio para aplicantes à vaga de pessoa desenvolvedora frontend nível Júnior.
 
 <img src="/readme/tela-nivel-dificil.png">
 
@@ -63,7 +63,7 @@ O Adriano, que é papai, respondeu:
 
 E Teles respondeu:
 
-> Legal! Podemos usar só emojis, tenho um sobrinho que adora emojis! Acho que da para fazer algo simples que funcione pra computadores e celulares.
+> Legal! Podemos usar só emojis, tenho um sobrinho que adora emojis! Acho que dá para fazer algo simples que funcione pra computadores e celulares.
 
 Todos gostaram da ideia. Os requisitos do MVP "VivaMemory" foram definidos a seguir.
 
@@ -194,7 +194,7 @@ Ao clicar em um dos botões é revelada a tela do nível correspondente. As cara
 
 ## Jogo Nível Fácil
 
-O jogo no nível fácil, segue as regras explicadas em "Funcionamento do jogo".
+O jogo no nível fácil segue as regras explicadas em "Funcionamento do jogo".
 O tabuleiro nesse nível de jogo contém:
 
 * Duas colunas
@@ -208,7 +208,7 @@ A imagem acima deve ser usada como referência para o design da tela.
 
 ## Jogo Nível Normal
 
-O jogo no nível normal, segue as regras explicadas em "Funcionamento do jogo".
+O jogo no nível normal segue as regras explicadas em "Funcionamento do jogo".
 O tabuleiro nesse nível de jogo contém:
 
 * Três colunas
@@ -222,7 +222,7 @@ A imagem acima deve ser usada como referência para o design da tela.
 
 ## Jogo Nível Difícil
 
-O jogo no nível difícil, segue as regras explicadas em "Funcionamento do jogo".
+O jogo no nível difícil segue as regras explicadas em "Funcionamento do jogo".
 O tabuleiro nesse nível de jogo contém:
 
 * Quatro colunas
